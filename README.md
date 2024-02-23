@@ -1,4 +1,5 @@
-Camera Profiles for Corel Aftershop Pro 3
+
+# Camera Profiles for Corel Aftershop Pro 3
 
 Installation:
 1. Download the profile you need;
